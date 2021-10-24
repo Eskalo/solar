@@ -1,3 +1,5 @@
+#Source: https://levelup.gitconnected.com/python-sun-position-for-solar-energy-and-research-7a4ead801777
+
 import math
 from datetime import datetime
 import geocoder
